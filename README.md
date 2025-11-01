@@ -23,7 +23,7 @@ Este fue mi primer proyecto grande en Windows Forms. Es una aplicación de escri
 
 * **Tecnologías usadas:** C#, Windows Forms, SQL Server.
 
-* **[➡️ Ver el Código en GitHub](ENLACE_A_TU_OTRO_REPOSITORIO)**
+* **[➡️ Ver el Código en GitHub]([ENLACE_A_TU_OTRO_REPOSITORIO](https://github.com/grego78887/proyecto-de-trabajos-/blob/main/C%23%20Dot%20net/Dios.sln))**
 * **[🎥 Ver Demo en Video](ENLACE_A_UN_VIDEO_DE_YOUTUBE_O_GOOGLE_DRIVE)**
 
 ---
